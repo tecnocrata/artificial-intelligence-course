@@ -15,3 +15,8 @@
    ```
    python -m ipykernel install --user --name with_tensorflow --display-name "Python 3.7 (with_tensorflow)"
    ```
+5. Switching among created environments (for macos only)
+
+   ```
+   source activate tensorflow
+   ```
